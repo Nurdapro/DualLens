@@ -4,6 +4,8 @@
 
 The platform was built with a focus on **media ethics**, **transparency**, and **civic education**.
 
+https://duallens.unperfect.kz
+
 ---
 
 ## ✨ Features
